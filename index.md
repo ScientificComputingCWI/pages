@@ -1,7 +1,7 @@
-@def title = "Franklin Example"
+@def title = "Scientific Computing Group CWI"
 @def tags = ["syntax", "code"]
 
-# How to use Franklin
+# Scientific Computing Group CWI
 
 \tableofcontents <!-- you can use \toc as well -->
 
