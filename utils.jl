@@ -68,6 +68,7 @@ end
 
 @delay hfun_news() = posts("news")
 @delay hfun_seminars() = posts("seminars")
+@delay hfun_publications() = posts("publications")
 
 # # Based on https://github.com/tlienart/Franklin.jl/pull/799.
 # function hfun_rss()

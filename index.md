@@ -34,3 +34,9 @@ To receive news and Zoom links for our group seminar, you can contact Wouter at 
 ## News
 
 {{news}}
+
+## Publications
+
+[Full list of publications](https://ir.cwi.nl/#facet=affiliation_label_partOf:Scientific%20Computing)
+
+{{publications}}
