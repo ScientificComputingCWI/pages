@@ -27,11 +27,7 @@ Previous members:
 
 ## Group seminar
 
-To receive news and Zoom links for our group seminar, you can contact at `mail@address`.
-
-## Publications
-
-[List of publications](https://ir.cwi.nl/#facet=affiliation_label_partOf:Scientific%20Computing)
+To receive news and Zoom links for our group seminar, you can contact Wouter at `wouter.edeling@cwi.nl`.
 
 ## News
 
