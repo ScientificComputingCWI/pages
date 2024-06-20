@@ -16,22 +16,22 @@ function lx_baz(com, _)
 end
 
 """
-    {{blogposts}}
+    {{name}}
 
-Plug in the list of blog posts contained in the `/posts` folder.
+Plug in the list of blog posts contained in the `/name` folder.
 Souce: <https://github.com/abhishalya/abhishalya.github.io>.
 """
-@delay function hfun_blogposts()
+function posts(name)
     today = Dates.today()
     curyear = year(today)
     curmonth = month(today)
     curday = day(today)
 
-    list = readdir("news")
+    list = readdir(name)
     filter!(endswith(".md"), list)
     function sorter(p)
         ps  = splitext(p)[1]
-        url = "/news/$ps/"
+        url = "/$name/$ps/"
         surl = strip(url, '/')
         pubdate = pagevar(surl, "published")
         if isnothing(pubdate)
@@ -49,7 +49,7 @@ Souce: <https://github.com/abhishalya/abhishalya.github.io>.
         end
         ps = splitext(post)[1]
         write(io, "<li><span><i>")
-        url = "/news/$ps/"
+        url = "/$name/$ps/"
         surl = strip(url, '/')
         title = pagevar(surl, "title")
         pubdate = pagevar(surl, "published")
@@ -65,6 +65,9 @@ Souce: <https://github.com/abhishalya/abhishalya.github.io>.
     write(io, "</ul>")
     return String(take!(io))
 end
+
+@delay hfun_news() = posts("news")
+@delay hfun_seminars() = posts("seminars")
 
 # # Based on https://github.com/tlienart/Franklin.jl/pull/799.
 # function hfun_rss()

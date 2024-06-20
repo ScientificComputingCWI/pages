@@ -29,6 +29,8 @@ Previous members:
 
 To receive news and Zoom links for our group seminar, you can contact Wouter at `wouter.edeling@cwi.nl`.
 
+{{seminars}}
+
 ## News
 
-{{blogposts}}
+{{news}}
