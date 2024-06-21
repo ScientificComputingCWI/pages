@@ -23,6 +23,25 @@
 
 <item>
   <title>
+    <![CDATA[  Discretize first, filter next – a new closure model approach  ]]>
+  </title>
+  <link> https://ScientificComputingCWI.github.io/publications/agdestein2022/index.html </link>
+  <guid> https://ScientificComputingCWI.github.io/publications/agdestein2022/index.html </guid>
+  <description>
+    <![CDATA[  Syver Døving Agdestein, Benjamin Sanderse, in Eccomas 2022  ]]>
+  </description>  
+    
+  <pubDate>Fri, 21 Jun 2024 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Scientitic Computing Group CWI</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
     <![CDATA[  Seminar Francesca Bartolucci  ]]>
   </title>
   <link> https://ScientificComputingCWI.github.io/seminars/20240620/index.html </link>
@@ -31,7 +50,26 @@
     <![CDATA[  Representation Equivalent Neural Operators: A Framework for Alias-free Operator Learning  ]]>
   </description>  
     
-  <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>  
+  <pubDate>Fri, 21 Jun 2024 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Scientitic Computing Group CWI</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  Discretize first, filter next: learning divergence-consistent closure models for large-eddy simulation  ]]>
+  </title>
+  <link> https://ScientificComputingCWI.github.io/publications/agdestein2024/index.html </link>
+  <guid> https://ScientificComputingCWI.github.io/publications/agdestein2024/index.html </guid>
+  <description>
+    <![CDATA[  Syver Døving Agdestein, Benjamin Sanderse, arXiv preprint arXiv:2403.18088  ]]>
+  </description>  
+    
+  <pubDate>Fri, 21 Jun 2024 00:00:00 +0000</pubDate>  
   
   
   <atom:author>
@@ -50,7 +88,7 @@
     <![CDATA[  Exploring the role of geometric and learning biases in Model Order Reduction and Data-Driven simulation  ]]>
   </description>  
     
-  <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>  
+  <pubDate>Fri, 21 Jun 2024 00:00:00 +0000</pubDate>  
   
   
   <atom:author>
@@ -66,10 +104,10 @@
   <link> https://ScientificComputingCWI.github.io/publications/vangastelen2024/index.html </link>
   <guid> https://ScientificComputingCWI.github.io/publications/vangastelen2024/index.html </guid>
   <description>
-    <![CDATA[  Energy-Conserving Neural Network for Turbulence Closure Modeling  ]]>
+    <![CDATA[  Toby van Gastelen, Wouter Edeling, Benjamin Sanderse, in Journal of Computational Physics  ]]>
   </description>  
     
-  <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>  
+  <pubDate>Fri, 21 Jun 2024 00:00:00 +0000</pubDate>  
   
   
   <atom:author>
@@ -88,7 +126,7 @@
     <![CDATA[  Semester programme on uncertainty quantification 2024  ]]>
   </description>  
     
-  <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>  
+  <pubDate>Fri, 21 Jun 2024 00:00:00 +0000</pubDate>  
   
   
   <atom:author>
