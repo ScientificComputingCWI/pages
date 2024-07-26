@@ -31,7 +31,26 @@
     <![CDATA[  Syver Døving Agdestein, Benjamin Sanderse, in Eccomas 2022  ]]>
   </description>  
     
-  <pubDate>Fri, 21 Jun 2024 00:00:00 +0000</pubDate>  
+  <pubDate>Fri, 26 Jul 2024 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Scientitic Computing Group CWI</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  AINed XS funding  ]]>
+  </title>
+  <link> https://ScientificComputingCWI.github.io/news/AINed_XS/index.html </link>
+  <guid> https://ScientificComputingCWI.github.io/news/AINed_XS/index.html </guid>
+  <description>
+    <![CDATA[  AINed XS funding for generative AI  ]]>
+  </description>  
+    
+  <pubDate>Fri, 26 Jul 2024 00:00:00 +0000</pubDate>  
   
   
   <atom:author>
@@ -50,7 +69,7 @@
     <![CDATA[  Representation Equivalent Neural Operators: A Framework for Alias-free Operator Learning  ]]>
   </description>  
     
-  <pubDate>Fri, 21 Jun 2024 00:00:00 +0000</pubDate>  
+  <pubDate>Fri, 26 Jul 2024 00:00:00 +0000</pubDate>  
   
   
   <atom:author>
@@ -69,7 +88,7 @@
     <![CDATA[  Syver Døving Agdestein, Benjamin Sanderse, arXiv preprint arXiv:2403.18088  ]]>
   </description>  
     
-  <pubDate>Fri, 21 Jun 2024 00:00:00 +0000</pubDate>  
+  <pubDate>Fri, 26 Jul 2024 00:00:00 +0000</pubDate>  
   
   
   <atom:author>
@@ -88,7 +107,7 @@
     <![CDATA[  Exploring the role of geometric and learning biases in Model Order Reduction and Data-Driven simulation  ]]>
   </description>  
     
-  <pubDate>Fri, 21 Jun 2024 00:00:00 +0000</pubDate>  
+  <pubDate>Fri, 26 Jul 2024 00:00:00 +0000</pubDate>  
   
   
   <atom:author>
@@ -107,7 +126,7 @@
     <![CDATA[  Toby van Gastelen, Wouter Edeling, Benjamin Sanderse, in Journal of Computational Physics  ]]>
   </description>  
     
-  <pubDate>Fri, 21 Jun 2024 00:00:00 +0000</pubDate>  
+  <pubDate>Fri, 26 Jul 2024 00:00:00 +0000</pubDate>  
   
   
   <atom:author>
@@ -126,7 +145,7 @@
     <![CDATA[  Semester programme on uncertainty quantification 2024  ]]>
   </description>  
     
-  <pubDate>Fri, 21 Jun 2024 00:00:00 +0000</pubDate>  
+  <pubDate>Fri, 26 Jul 2024 00:00:00 +0000</pubDate>  
   
   
   <atom:author>
